@@ -15,12 +15,11 @@ hogheoge
 [Email](mailto:u404987c@ecs.osaka-u.ac.jp) |
 [CV](Academic_CV_Kira_20250117.pdf)
 
-## Working Papers 
 
 ## Work in progress
 The Effect of Employment Quota for Persons with Disabilities
 
-<details style="margin-bottom: 15px; margin-top: -15px">
+<details style="margin-bottom: 18px; margin-top: -18px">
 <summary>Abstract</summary>
 <div style="text-align: justify">
 This paper~
@@ -28,14 +27,7 @@ This paper~
 </details>
 
 
-The Effect of Employment Quota for Persons with Disabilities
 
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-<div style="text-align: justify">
-This paper~
-</div>
-</details>
 
 
 ## Recent Presentations
