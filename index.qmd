@@ -3,6 +3,7 @@ title: "[Mifuyu Kira]{.font-black}"
 subtitle: "[Ph.D. student in Public Policy]{.font-black}"
 title-block-banner: pic_cover2.jpg
 toc: false #目次
+#about: テンプレートの指定
 ---
 # [Mifuyu Kira]{.font-black}
 [Ph.D. student in Public Policy]{.font-big}
