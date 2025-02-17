@@ -1,0 +1,26 @@
+/*-- scss.defaults --*/
+
+/*-- scss:rules --*/
+
+
+// Font color
+
+.font-white {
+  color: white;
+}
+
+.font-black {
+    color: black;
+    text-align: right;
+}
+
+.font-big {
+  color: black;
+  font-size: x-large;
+}
+
+section {
+    h2 {
+        color: black; //見出しの指定
+    }
+}
