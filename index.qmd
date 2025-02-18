@@ -2,15 +2,16 @@
 title: "[Mifuyu Kira]{.font-black}"
 subtitle: "[Ph.D. student in Public Policy]{.font-black}"
 title-block-banner: pic_cover2.jpg
+image: my_pic_hp.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: rectangle
 toc: false #目次
-#about: テンプレートの指定
 ---
-# [Mifuyu Kira]{.font-black}
-[Ph.D. student in Public Policy]{.font-big}
 
 hogheoge
 
-<a><img src="my_pic_hp.jpg" align="right" width="270" /></a>
 
 [Email](mailto:u404987c@ecs.osaka-u.ac.jp) |
 [CV](Academic_CV_Kira_20250117.pdf)
