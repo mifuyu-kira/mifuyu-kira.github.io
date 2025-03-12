@@ -1,39 +1,50 @@
 ---
-title: "[Mifuyu Kira]{.font-black}"
-subtitle: "[Ph.D. student in Public Policy]{.font-black}"
-title-block-banner: pic_cover2.jpg
+title: "Mifuyu Kira"
+subtitle: "PhD student in Public Policy"
 image: my_pic_hp.jpg
 about:
   template: solana
   image-width: 15em
   image-shape: rectangle
+  links:
+    - text: "Email"
+      href: "mailto:u404987c@ecs.osaka-u.ac.jp"
+    - text: "CV"
+      href: "Academic_CV_Kira_20250117.pdf"
 toc: false #目次
+css: styles.css
 ---
 
-hogheoge
+
+I am a PhD student in Public Policy at Osaka University [(OSIPP)](https://www.osipp.osaka-u.ac.jp/en/) from 2024.
 
 
-[Email](mailto:u404987c@ecs.osaka-u.ac.jp) |
-[CV](Academic_CV_Kira_20250117.pdf)
+My reseach focus is on labour, education, and behavioral economics using observational data and experimental methods. I am primarily interested in the topics of disability and redistribution.
+
+Before my PhD, I received an MA in Economics from the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html).
 
 
-## Work in progress
+
+
+### Work in progress
 The Effect of Employment Quota for Persons with Disabilities
 
 <details style="margin-bottom: 18px; margin-top: -18px">
 <summary>Abstract</summary>
 <div style="text-align: justify">
-This paper~
+Promoting employment opportunities for persons with disabilities is an essential policy for social inclusion. This paper examines the effectiveness of recent disability employment quota systems by exploiting discontinuous increases in quotas based on firm size. The results show that while quotas do increase employment of persons with disabilities, the effect is limited. Each additional worker in the quota requirement increases only 0.3 additional persons with disabilities employed. Also, there are heterogeneous impacts across industry sectors. These findings contribute to discussions about policy directions for advancing disability employment in the future.
 </div>
 </details>
 
+Peer Effect in a Flipped Classroom: Field Experiments (joint with )
 
 
 
 
-## Recent Presentations
-Jan 10, 2025: [Workshop on the economics of human resource allocation (online)](https://sites.google.com/site/jinzaihaichinokeizaigaku/home)
+### Recent Presentations
+Jan 10, 2025
+: [Workshop on the economics of human resource allocation (online)](https://sites.google.com/site/jinzaihaichinokeizaigaku/home)
 
-Nov 19, 2024: [Japanese Economic Association Fall Meeting (Fukuoka, Japan)](https://confit.atlas.jp/guide/event/jeaf2024/tables)
-
+Nov 19, 2024
+: [Japanese Economic Association Fall Meeting (Fukuoka, Japan)](https://confit.atlas.jp/guide/event/jeaf2024/tables)
 

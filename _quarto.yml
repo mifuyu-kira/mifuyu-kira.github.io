@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "mifuyu-kira.github.io" 
+  title: "mifuyu-kira.github.io"
+  page-footer: " "
   
 format:
   html:

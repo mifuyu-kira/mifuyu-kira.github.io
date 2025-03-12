@@ -2,6 +2,10 @@
 
 /*-- scss:rules --*/
 
+// links margin
+.about-links {
+  margin-top: -1.3em;  /* 上部の余白を減らす */
+}
 
 // Font color
 
@@ -11,7 +15,10 @@
 
 .font-black {
     color: black;
-    text-align: right;
+}
+
+.font-navy {
+  color: navy;
 }
 
 .font-big {
@@ -24,3 +31,52 @@ section {
         color: black; //見出しの指定
     }
 }
+
+h3 {
+  margin-top: 2em;      /* h3見出しの上部マージン */
+}
+
+.footer {
+  background-image: url('pic_cover_5-2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;  /* 幅を画面全体に */
+  
+  /* レスポンシブパディング */
+  padding: clamp(10px, 3vw, 40px);  /* 最小10px、最大40px、画面幅に応じて変動 */
+  
+  /* 最小の高さを設定 */
+  min-height: clamp(60px, 10vh, 120px);  /* 最小80px、最大200px */
+}
+
+/* フッター内の全ての要素の背景を透明に */
+.footer * {
+  background-color: transparent !important;
+}
+
+/* フッターのテキストスタイル */
+.footer div {
+  background: transparent !important;
+  color: white !important;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  font-size: clamp(14px, 2vw, 18px);  /* テキストサイズも自動調整 */
+}
+
+
+// リンクの下線をなくす
+a {
+  text-decoration: none;
+}
+
+
+// presentation style
+.presentation-item {
+  margin-bottom: 1.5em; /* 項目間の下マージン */
+}
+
+.date {
+  font-weight: normal; /* 日付の太さ - 必要に応じて bold に変更可能 */
+  margin-bottom: 0.1em; /* 日付とコンテンツの間の間隔 */
+}
+
