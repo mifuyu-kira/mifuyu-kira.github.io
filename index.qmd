@@ -2,6 +2,14 @@
 title: "Mifuyu Kira"
 subtitle: "PhD student in Public Policy"
 image: my_pic_hp.jpg
+twitter-card:
+  title: "Mifuyu Kira"
+  description: "Personal website of Mifuyu Kira"
+  card-style: summary
+open-graph:
+  title: "Mifuyu Kira"
+  description: "Personal website of Mifuyu Kira"
+  type: website
 about:
   template: solana
   image-width: 15em
@@ -10,7 +18,7 @@ about:
     - text: "Email"
       href: "mailto:u404987c@ecs.osaka-u.ac.jp"
     - text: "CV"
-      href: "20250517_CV_Kira.pdf"
+      href: "CV_Kira.pdf"
 toc: false #目次
 css: styles.css
 ---
@@ -32,7 +40,9 @@ The Effects of Flipped Classroom in Higher Education on Learning Outcomes and th
 
 
 ### Work in progress
-The Effect of Employment Quota for Persons with Disabilities
+The Effect of Employment Quota for Persons with Disabilities 
+<br>(Working titel)
+
 <!-- 
 <details style="margin-bottom: 18px; margin-top: -18px">
 <summary>Abstract</summary>
@@ -41,6 +51,9 @@ Promoting employment opportunities for persons with disabilities is an essential
 </div>
 </details>
 --> 
+
+Legacy of Discrimination Based on Wrong Beliefs: Evidence from the Minamata Disease
+<br>(Working title) (with [Gwen-Jirō Clochard](https://sites.google.com/view/gwen-jiro-clochard/) and [Yuki Takahashi](https://yukitakahashi1.github.io/))
 
 
 ***

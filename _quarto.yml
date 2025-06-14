@@ -1,9 +1,14 @@
 project:
   type: website
+  resources:
+    - "*.pdf"
 
 website:
-  title: "mifuyu-kira.github.io"
+  title: "Mifuyu Kira"
   page-footer: " "
+  site-url: https://mifuyu-kira.github.io
+  description: "Personal website of Mifuyu Kira"
+  favicon: Symbol.png
   
 format:
   html:
@@ -12,6 +17,11 @@ format:
       - styles.scss
     css: styles.css
     toc: true
+    metadata:
+      og:title: "Mifuyu Kira"
+      og:description: "Personal website of Mifuyu Kira"
+      og:type: website
+      og:url: https://mifuyu-kira.github.io
 
 
 

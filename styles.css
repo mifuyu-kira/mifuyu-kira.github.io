@@ -1,1 +1,21 @@
 /* css styles */
+
+/* モバイルを含むすべての画面サイズで左揃えにする */
+.about-contents {
+    text-align: left !important;
+}
+
+.about-contents .description {
+    text-align: left !important;
+}
+
+/* Quartoのsolanaテンプレートのモバイル用スタイルをオーバーライド */
+@media (max-width: 991.98px) {
+    .about-contents {
+        text-align: left !important;
+    }
+    
+    .about-contents .description {
+        text-align: left !important;
+    }
+}
